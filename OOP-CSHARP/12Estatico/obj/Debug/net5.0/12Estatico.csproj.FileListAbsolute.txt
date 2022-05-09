@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\bin\Debug\net5.0\12Estatico.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\refint\12Estatico.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\12Estatico.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\12Estatico\obj\Debug\net5.0\ref\12Estatico.dll

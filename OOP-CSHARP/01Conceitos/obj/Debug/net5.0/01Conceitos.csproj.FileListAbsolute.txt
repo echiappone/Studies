@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\bin\Debug\net5.0\01Conceitos.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\refint\01Conceitos.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\01Conceitos.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\01Conceitos\obj\Debug\net5.0\ref\01Conceitos.dll

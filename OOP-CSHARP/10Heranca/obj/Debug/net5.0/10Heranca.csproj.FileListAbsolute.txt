@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\bin\Debug\net5.0\10Heranca.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\refint\10Heranca.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\10Heranca.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\10Heranca\obj\Debug\net5.0\ref\10Heranca.dll

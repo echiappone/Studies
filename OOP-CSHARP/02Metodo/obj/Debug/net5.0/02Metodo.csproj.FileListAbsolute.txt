@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\bin\Debug\net5.0\02Metodo.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\refint\02Metodo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\02Metodo.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\02Metodo\obj\Debug\net5.0\ref\02Metodo.dll

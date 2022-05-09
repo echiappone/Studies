@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\bin\Debug\net5.0\11Polimorfismo.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\refint\11Polimorfismo.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\11Polimorfismo\obj\Debug\net5.0\ref\11Polimorfismo.dll

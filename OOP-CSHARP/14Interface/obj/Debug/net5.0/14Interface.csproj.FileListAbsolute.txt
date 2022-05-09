@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.exe
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.deps.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.dev.json
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\bin\Debug\net5.0\14Interface.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\refint\14Interface.dll
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.pdb
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\14Interface.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoOOP RaufLima\OOP\14Interface\obj\Debug\net5.0\ref\14Interface.dll
