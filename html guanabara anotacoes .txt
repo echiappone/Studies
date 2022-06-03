@@ -1,0 +1,166 @@
+arpanet
+para fazer backup
+medo de ser atacado pela uniao sov
+protocolo NCP para q todos pc pudessem conversar
+NCP impraticado
+TCP nao precisa parar pra se comunicar
+TCP/IP que usamos hj
+arpanet dividida em 3
+MILNET NSFNET Comerciais
+surge internetworking
+internet
+client servidor
+client solicita foto pra servidor
+TCP quebra esses dados em varios pedaços
+envia por rotas e caminhos diferentes
+se um pedaço sumir ele é reenviado por outra rota
+seu TCP é responsavel por reunir esses pedaços
+
+internet nao tinha nada grafico
+usava gopher
+surge protocolo http://,HTML, WWW e navegador
+www é uma sub rede dentro da rede internet
+www é o conjunto de servidores baseado em HTTP
+htttp hiper texto
+
+----------------------------------------------
+
+computador se comunica por sinais
+0 e 1 - digitos binarios
+1 bit é um 0 ou um 1
+8bits é o conjunto minimo pra q se represente um dado
+o nome dessa sequencia é byte
+1 byte é uma sequencia de 8bits
+1 byteé a porção minima para representar uma informacao
+exemplo: 01000001 = A
+a letra A, seguindo a tabelado codigo multibyte UTF-8
+é representada por essa sequencia de bits
+Esse codigo multibyte utiliza de 1 a 4 bytes para
+representar letras, simbolos, emojis
+os 0 e 1 sao dois estados, chamado de "onda quadrada"
+onda binarios = onda quadrada
+o computador só entende essas ondas binarias
+na computação nos temos os multiplos do byte
+8bits = 1byte, 1024bytes = 1KB
+1024KB = 1MB, 1024MB = 1GB
+porque na computação é 1024?
+porque ele tabalha com a base 2, e nao 10 como a nossa
+B maiusculo é BYTE
+b minusculo é bits
+MB - mt usado pra fazer referencia a armazenado
+Mb - a transmissão, internet de 10MEGABITS
+
+seu computador um celular é um cliente
+a imagem, video, site.. esta na internet
+entre o cliente e a internet esta a 
+conexao por um outro sistema
+exemplo - telefone
+o telefone nao entende ondas binarias (ondas quadradas)
+esses sistemas entendem ondas senoidais
+como comunicar esses sistemas se comunicam de formas diferentes?
+surge o aparelho q fica entre a rede telefonica e se PC
+quando enviamos dados, ele faz a transformação 
+das ondas quadradas, para ondas senuidais
+essa transformação se chama - Modulação
+E quando recebe dados, transdorma as 
+ondas Senuidais em ondas quebradas
+Essa transformação se chama demodulação
+MODEM - o aparelho que faz modulação e demodulação
+MO DULAÇÃO E DEM ODULAÇÃO = MODEM
+
+quero acessar instagram
+instagram é um conjunto de arquivos
+onde estão esses arquivos?
+estão em um servidor, ou melhor, um conjunto deles
+esses servidores são identificados com um numero
+quando vc se conecta tambem recebe um numero de identificacao
+esses são os numeros IPs
+nesse caso, um numero IP publico
+existe tmb o IP local, o do seu aparelho
+toda vez que vc acessaria o instagram,
+teria que digitar o numero IP publico do servidor,
+o que seria um problema, ja que eles sempre mudam.
+pra isso a interner criou uma "agenda eletronica"
+que é o servidor DNS - Sistema de Nomes de Domínio
+Exemplo de dominio - instagra.com
+quando vc digita instagram.com, 
+ele nao vai direto para o servidor do instagram,
+Ele vai diretamente para o servidor DNS, e pergunta:
+Qual o IP publico atual do dominio do instagram.com?
+Então ele devolve o numero IP do instagram 
+para que o seu modem possa ter acesso ao servidor dele
+então ele pede os arquivos do insta, e eles são
+retornados por varias rotas, em varios pedacinhos
+o que sao rotas?
+uma rede finita, com caminhos finitos
+nem sempre os arquivos virao pela rota mais rapida
+assim como o WAZE, pode haver um congestionamento
+então, ele pega uma rota diferente, para que seus
+arquivos cheguem, por isso as vezes quando atualizamos
+a pagina, ele faz uma nova rota para enviar, e assim
+ter acesso aos arquivos que estavam preso em uma rota ruim
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
