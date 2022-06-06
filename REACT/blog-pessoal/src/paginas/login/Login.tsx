@@ -4,7 +4,7 @@ import { Box } from "@mui/material";
 import { Link, useNavigate } from 'react-router-dom';
 import useLocalStorage from "react-use-localstorage";
 import { login } from "../../services/Service";
-import Usuario from "../../models/UserLogin";
+import Usuario from "../../models/Usuario";
 import './Login.css';
 import { useDispatch } from "react-redux";
 import { addToken } from "../../store/tokens/actions";
@@ -16,7 +16,7 @@ function Login() {
     const [token, setToken] = useState('');
     const [idCriador, setIdCriador] = useLocalStorage('id');
 
-    const [UserLogin, setUserLogin] = useState<Usuario>(
+    const [Usuario, setUserLogin] = useState<Usuario>(
         {
             id: 0,
             nome: "",
@@ -30,7 +30,7 @@ function Login() {
     function updatedModel(e: ChangeEvent<HTMLInputElement>) {
 
         setUserLogin({
-            ...UserLogin,
+            ...Usuario,
             [e.target.name]: e.target.value
         })
     }
@@ -41,7 +41,7 @@ function Login() {
 
         try {
 
-            await login(`/api/Usuarios/logar`, UserLogin, setToken, setIdCriador);
+            await login(`/api/Usuarios/logar`, Usuario, setToken, setIdCriador);
 
             alert('Usuário logado com sucesso!');
         } catch (error) {
@@ -67,12 +67,12 @@ function Login() {
                             <Typography variant='h3' gutterBottom color='textPrimary' component='h3' align='center' className='textos1'>Entrar</Typography>
 
                             <TextField
-                                value={UserLogin.email}
+                                value={Usuario.email}
                                 onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                                 id='email' label='email' variant='outlined' name='email' margin='normal' fullWidth />
 
                             <TextField
-                                value={UserLogin.senha}
+                                value={Usuario.senha}
                                 onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                                 id='senha' label='senha' variant='outlined' name='senha' margin='normal' type='password' fullWidth />
 

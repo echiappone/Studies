@@ -1,4 +1,4 @@
-interface UserLogin {
+interface User {
     id: number;
     nome?: string| null;
     email?: string| null;
@@ -7,4 +7,4 @@ interface UserLogin {
     tipo?: string| null;
 }
 
-export default UserLogin;
+export default User;
