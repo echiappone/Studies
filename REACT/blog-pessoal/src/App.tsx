@@ -5,6 +5,8 @@ import Footer from './components/estaticos/footer/Footer';
 import Home from "./paginas/home/Home"
 import Login from './paginas/login/Login';
 import CadastroUsuario from './paginas/cadastroUsuario/CadastroUsuario';
+import ListaTema from './paginas/listaTema/ListaTema';
+import ListaPostagem from './paginas/listaPostagem/ListaPostagem';
 import './App.css';
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/home" element={<Home />} />
           <Route path="/cadastrousuario" element={<CadastroUsuario />} />
+          <Route path="/temas" element={<ListaTema />} />
+          <Route path="/posts" element={<ListaPostagem />} />
 
         </Routes>
       </div>
