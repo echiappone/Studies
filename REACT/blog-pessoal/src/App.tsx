@@ -5,8 +5,8 @@ import Footer from './components/estaticos/footer/Footer';
 import Home from "./paginas/home/Home"
 import Login from './paginas/login/Login';
 import CadastroUsuario from './paginas/cadastroUsuario/CadastroUsuario';
-import ListaTema from './paginas/listaTema/ListaTema';
-import ListaPostagem from './paginas/listaPostagem/ListaPostagem';
+import ListaTema from './components/temas/listaTema/ListaTema';
+import ListaPostagem from './components/postagens/listaPostagem/ListaPostagem';
 import './App.css';
 
 function App() {
