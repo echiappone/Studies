@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/estaticos/navbar/Navbar';
 import Footer from './components/estaticos/footer/Footer';
 import Home from "./paginas/home/Home"
@@ -11,17 +11,18 @@ import CadastroPostagem from './components/postagens/cadastroPostagem/CadastroPo
 import CadastroTema from './components/temas/cadastroTema/CadastroTema';
 import DeletarPostagem from './components/postagens/deletarPostagem/DeletarPostagem';
 import DeletarTema from './components/temas/deletarTema/DeletarTema';
+import { Provider } from 'react-redux';
+import store from './store/store';
 import './App.css';
 
 function App() {
-  return(
-    <Router>
-      <Navbar />
-      <div style={{ minHeight: '100vh' }}>
+  return (
+    <Provider store={store}>
+      <Router>
+        <Navbar />
 
-        {/*Antigo Switch*/}
         <Routes>
-          
+
           <Route path="/" element={<Login />} />
           <Route path="/login" element={<Login />} />
           <Route path="/home" element={<Home />} />
@@ -36,9 +37,9 @@ function App() {
           <Route path="/deletarTema/:id" element={<DeletarTema />} />
 
         </Routes>
-      </div>
-      <Footer />
-    </Router>
+        <Footer />
+      </Router>
+    </Provider>
   );
 }
 
